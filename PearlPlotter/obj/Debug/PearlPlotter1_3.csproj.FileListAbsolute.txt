@@ -1,0 +1,60 @@
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\Amir\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\Nick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\source\repos\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\Nick\Documents\Aquisense\Programs\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\Documents\Aquisense\Visual Studio Projects\C#\PearlPlotter\2\PearlPlotter1_3\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe.config
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\bin\Debug\PearlPlotter1_3.pdb
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csprojAssemblyReference.cache
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Form1.resources
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.Properties.Resources.resources
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.GenerateResource.cache
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.csproj.CoreCompileInputs.cache
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.exe
+C:\Users\xnick\Documents\Aquisense\Git\production-automation\Test\pearl-plotter\PearlPlotter1_3\obj\Debug\PearlPlotter1_3.pdb
