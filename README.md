@@ -1,12 +1,23 @@
 # Pearl Plotter
 An intensity of light plotter that holds up a light source and measures the intensity of light that is produced on an XY plane. 
 
-### Here is what the device looks like: 
+### The device I made
 ![Device](Device.png)
 
-### The application I built looks like this: 
+### The application I built
 ![Application](App.png)
 
-### A poster I made describing more details about the plotter: 
+### A poster I made describing more details about the plotter
 ![Poster](Poster.png)
 
+![Display](Display.jpg)
+
+### Bioreactors that were measured on this device
+![HIA](High Intensity Array.jpg)
+
+![Reactor](reactoron.jpg)
+
+![PearlBeam](NASA Custom Beam.jpg)
+
+![Spectra](Integrating Sphere Spectra.jpg)
+A spectra of one of the PearlBeams taken on an integrating sphere
