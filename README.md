@@ -13,11 +13,12 @@ An intensity of light plotter that holds up a light source and measures the inte
 ![Display](Display.jpg)
 
 ### Bioreactors that were measured on this device
-![HIA](High Intensity Array.jpg)
+![HIA](HighIntensityArray.jpg)
 
-![Reactor](reactoron.jpg)
+![Reactor](ReactorOn.jpg)
 
-![PearlBeam](NASA Custom Beam.jpg)
+![PearlBeam](NASACustomBeam.jpg)
 
-![Spectra](Integrating Sphere Spectra.jpg)
+![Spectra](IntegratingSphereSpectra.jpg)
+
 A spectra of one of the PearlBeams taken on an integrating sphere
