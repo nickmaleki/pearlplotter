@@ -15,7 +15,7 @@ An intensity of light plotter that holds up a light source and measures the inte
 ### Bioreactors that were measured on this device
 ![HIA](HighIntensityArray.jpg)
 
-![Reactor](ReactorOn.jpg)
+![Reactor](ReactorOn.png)
 
 ![PearlBeam](NASACustomBeam.jpg)
 
